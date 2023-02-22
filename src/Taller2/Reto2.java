@@ -98,6 +98,7 @@ public class Reto2 {
             System.exit(0);
                 break;
         }
+        Lectura.close();
 
     }
 }
